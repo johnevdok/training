@@ -1,8 +1,10 @@
-# Store input numbers
+
 num1 = input('Enter first number: ')
 num2 = input('Enter second number: ')
+num3 = input('Enter third number: ')
+num4 = input('Enter forth number: ')
 
-# Add two numbers
+
 sum = float(num1) + float(num2)
 
 # Display the sum
